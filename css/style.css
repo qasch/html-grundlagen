@@ -1,3 +1,17 @@
+body {
+  margin: 0;
+}
+
+figure {
+  margin: 0;
+}
+
+img {
+  object-fit: cover;
+  width: 100%;
+  height: 200px;
+}
+
 h1 {
   color: rgb(200, 0, 200);
   font-size: 1.5em;
@@ -14,9 +28,5 @@ h2.purpleish {
 }
 
 h2.greenish {
-  color: #1ca923;
-}
-
-h2.greenish p {
   color: #1ca923;
 }
