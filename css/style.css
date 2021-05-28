@@ -1,0 +1,22 @@
+h1 {
+  color: rgb(200, 0, 200);
+  font-size: 1.5em;
+  font-weight: normal;
+}
+
+h2 {
+  /*      RRGGBB*/
+  color: red;
+}
+
+h2.purpleish {
+  color: #D21D66;
+}
+
+h2.greenish {
+  color: #1ca923;
+}
+
+h2.greenish p {
+  color: #1ca923;
+}
